@@ -1,0 +1,4 @@
+python-commonmark source: file-without-copyright-information
+python-commonmark source: no-debian-changes
+python-commonmark source: source-contains-prebuilt-windows-binary
+python-commonmark source: source-package-encodes-python-version

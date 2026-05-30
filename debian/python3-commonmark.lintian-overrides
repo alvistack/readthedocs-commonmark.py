@@ -1,0 +1,4 @@
+python3-commonmark: copyright-without-copyright-notice
+python3-commonmark: initial-upload-closes-no-bugs
+python3-commonmark: no-manual-page
+python3-commonmark: zero-byte-file-in-doc-directory
